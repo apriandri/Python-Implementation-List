@@ -1,9 +1,4 @@
-'''
-YouTube Video Downloader
-Author: Ayushi Rawat
-'''
 
-#import the package
 from pytube import YouTube
 
 url = 'Your URL goes here'
